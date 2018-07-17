@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itsnotlongenough",
+  "name": "Its Not Long Enough",
+  "description": "Allows time in Minecraft to be just as long and boring as time in the Real World",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kreezxil"],
+  "credits": "Squirtle8459 for having an MIT LICENSE without an open source repository and not updating this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
